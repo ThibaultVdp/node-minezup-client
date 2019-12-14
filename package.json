@@ -1,0 +1,23 @@
+{
+  "name": "minezup-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperTint/node-minezup-client.git"
+  },
+  "author": "Thibault Vandeputte <thibault@minezup.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SuperTint/node-minezup-client/issues"
+  },
+  "homepage": "https://github.com/SuperTint/node-minezup-client#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "discord.js": "^11.5.1"
+  }
+}
