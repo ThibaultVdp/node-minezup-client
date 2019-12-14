@@ -21,4 +21,4 @@ Step 4: Start your program with your uniquely provided program ID (we used 1 as 
 
     $ PROGRAM=1 node .
 
-Any other questions may be forwarded to your contact at MineZup.
+If you have any questions, feel free to reach out to your contact at MineZup.
